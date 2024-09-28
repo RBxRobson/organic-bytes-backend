@@ -1,0 +1,1 @@
+from .hero_factory import HeroFactory
