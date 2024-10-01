@@ -1,5 +1,5 @@
 import factory
-from ..models import Hero
+from home.models import Hero
 
 class HeroFactory(factory.django.DjangoModelFactory):
     class Meta:
