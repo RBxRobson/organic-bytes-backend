@@ -1,0 +1,1 @@
+from .icon_viewset import IconViewSet
