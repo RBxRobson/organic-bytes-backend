@@ -5,7 +5,7 @@ from icons import viewsets
 
 router = routers.SimpleRouter()
 
-router.register(r"icons", viewsets.IconViewSet, basename="icon")
+router.register(r"", viewsets.IconViewSet, basename="icon")
 
 
 urlpatterns = [

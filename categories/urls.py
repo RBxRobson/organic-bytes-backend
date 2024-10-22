@@ -5,7 +5,7 @@ from categories import viewsets
 
 router = routers.SimpleRouter()
 
-router.register(r"categories", viewsets.CategoryViewSet, basename="category")
+router.register(r"", viewsets.CategoryViewSet, basename="category")
 
 
 urlpatterns = [
