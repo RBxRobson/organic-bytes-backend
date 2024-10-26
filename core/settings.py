@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     "home",
     "icons",
     "categories",
-    "products"
+    "products",
+    "testimonials"
 ]
 
 MIDDLEWARE = [
